@@ -1,3 +1,3 @@
 # manejobiblioteca
 
-Proyecto de sistema de gestion de biblioteca para la asignatura de taller de diseño de aplicaciones INACAP
+Proyecto de sistema de gestion de biblioteca para la asignatura de taller de diseño de aplicaciones INACAP 2017
